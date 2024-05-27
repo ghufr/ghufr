@@ -18,3 +18,5 @@ I'm Ghufron, a software engineer who likes to explore new tech and implement it 
 <a href="https://twitter.com/ghufronfikri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghufronfr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ghufronfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghufronfr" height="30" width="40" /></a>
 <a href="https://instagram.com/ghufronfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghufronfr" height="30" width="40" /></a>
+
+- [Leet Code](https://leetcode.com/u/ghufronfr)
