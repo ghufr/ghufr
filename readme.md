@@ -7,7 +7,9 @@ I'm Ghufron, a software engineer who likes to explore new tech and implement it 
 - 🤹🏻 Hobby in electronics such as **Arduino**, **ESP** and other small programmable microcomputer.
 - 🖼️ Designing a **UI/UX** for mobile app and web
 
-**🆕 Projects & Enquiries: [ghuffytech.com](https://ghuffytech.com)**
+> [!NOTE]
+> Projects & Enquiries: [ghuffytech.com](https://ghuffytech.com)
+
 
 🔗 &nbsp;**Connect with me**
 
