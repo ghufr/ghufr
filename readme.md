@@ -1,10 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**About Me**
+I'm Ghufron, a software engineer who likes to explore new tech and implement it in a real life scenario, for example:
+- 👨‍💻 Build web apps with **React.js** & **Node.js** / **Laravel** & **Flutter** (ex. [Warehouse Inventory System](https://github.com/ghufr/wims), [Attendance App](https://github.com/ghufr/attendance_flutter))
+- ◀️ Reverse engineer API (ex. [Shopee Coin Miner](https://github.com/ghufr/shopee-coin-miner))
+- 🤖 Build automation with **Python** & **openCV** (ex. [Ternak Uang Data Scraping](https://github.com/ghufr/ternak-uang-api-dump-script), [Maingame Bot](https://github.com/ghufr/maingame-automation))
+- 🤹🏻 Hobby in electronics such as **Arduino**, **ESP** and other small programmable microcomputer.
+- 🖼️ Designing a **UI/UX** for mobile app and web
 
-- Mainly building web apps with React.js & Node.js
-- Sometimes reverse engineer a API
-- Building automation with python & openCV
+**🆕 Projects & Enquiries: [ghuffytech.com](https://ghuffytech.com)**
 
 🔗 &nbsp;**Connect with me**
 
